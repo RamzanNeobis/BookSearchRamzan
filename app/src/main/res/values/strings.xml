@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Retrofit Example</string>
+    <string name="book_hint">Enter book title</string>
+    <string name="name_button">Search</string>
+    <string name="book_title">The Godfather</string>
+    <string name="book_author">Mario Puzo</string>
+    <string name="book_date">2012–11-30</string>
+    <string name="book_pages">608 pages</string>
+    <string name="book_rating">4.0</string>
+</resources>
